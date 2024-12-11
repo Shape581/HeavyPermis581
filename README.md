@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/HeavyPermis581/total)
+
 # :zap: HeavyPermis581 V1.0.0
 
 HeavyPermis581 est un Plugin de permis poids lourd.
